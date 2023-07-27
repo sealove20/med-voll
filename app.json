@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo-base-template",
-    "slug": "expo-base-template",
+    "name": "med-voll",
+    "slug": "med-voll",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
